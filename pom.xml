@@ -20,7 +20,7 @@
         <repository>
             <id>github</id>
             <name>GitHub loudambiance Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/loudambiance/BoomHaltr</url>
+            <url>https://maven.pkg.github.com/loudambiance/BoomHalt</url>
         </repository>
     </distributionManagement>
 
