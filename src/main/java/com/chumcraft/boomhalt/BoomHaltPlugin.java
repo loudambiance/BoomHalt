@@ -56,7 +56,7 @@ public class BoomHaltPlugin extends JavaPlugin {
 
     private void checkUpdates()
     {
-        new UpdateChecker(this, 77477).getVersion(version -> { //points to wrong plugin number
+        new UpdateChecker(this, 78025).getVersion(version -> { //points to wrong plugin number
             if (this.getDescription().getVersion().equalsIgnoreCase(version)) {
                 //this.getLogger().info("There is not a new update available.");
             } else {

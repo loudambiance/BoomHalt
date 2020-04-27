@@ -4,7 +4,7 @@
   <groupId>com.chumcraft.boomhalt</groupId>
   <artifactId>BoomHalt</artifactId>
   <name>BoomHalt</name>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <description>Simple command to stop things going boom.</description>
   <url>https://github.com/loudambiance/BoomHalt</url>
   <build>
@@ -95,7 +95,7 @@
     <repository>
       <id>github</id>
       <name>GitHub loudambiance Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/loudambiance/BoomHaltr</url>
+      <url>https://maven.pkg.github.com/loudambiance/BoomHalt</url>
     </repository>
   </distributionManagement>
   <properties>
