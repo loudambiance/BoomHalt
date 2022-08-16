@@ -4,7 +4,7 @@
   <groupId>com.chumcraft.boomhalt</groupId>
   <artifactId>BoomHalt</artifactId>
   <name>BoomHalt</name>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <description>Simple command to stop things going boom.</description>
   <url>https://github.com/loudambiance/BoomHalt</url>
   <build>
@@ -65,13 +65,9 @@
     <dependency>
       <groupId>org.spigotmc</groupId>
       <artifactId>spigot-api</artifactId>
-      <version>1.15.2-R0.1-SNAPSHOT</version>
+      <version>1.19.2-R0.1-SNAPSHOT</version>
       <scope>provided</scope>
       <exclusions>
-        <exclusion>
-          <artifactId>commons-lang</artifactId>
-          <groupId>commons-lang</groupId>
-        </exclusion>
         <exclusion>
           <artifactId>guava</artifactId>
           <groupId>com.google.guava</groupId>
